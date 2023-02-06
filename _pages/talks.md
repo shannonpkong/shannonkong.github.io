@@ -9,9 +9,9 @@ author_profile: true
 ## Talks: 
 ------
 
-  Gibson, S. P. (2022, July). Exploring whether a bilingual advantage exists for 8-to-36-month-old infants in the UK. In Diane Poulin Dubois’ (Chair), <i>New perspectives on the cognitive bilingual advantage in infancy </i>[Symposium]. International Congress of Infant Studies, Ottawa, Canada.
+  <b>Gibson, S. P.</b> (2022, July). Exploring whether a bilingual advantage exists for 8-to-36-month-old infants in the UK. In Diane Poulin Dubois’ (Chair), <i>New perspectives on the cognitive bilingual advantage in infancy </i>[Symposium]. International Congress of Infant Studies, Ottawa, Canada.
 
-  Gibson, S. P. & Gonzalez-Gomez, N. (2021, November). <i>Two-to-one mapping: An alternative model of the mutual exclusivity bias in bilingual infants.</i> Invited talk at CamPAL.
+  <b>Gibson, S. P.</b> & Gonzalez-Gomez, N. (2021, November). <i>Two-to-one mapping: An alternative model of the mutual exclusivity bias in bilingual infants.</i> Invited talk at CamPAL.
 
 ## Poster presentations:
 ------
